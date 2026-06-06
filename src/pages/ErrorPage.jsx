@@ -31,7 +31,7 @@ const ErrorPage = () => {
 
         <p>The page you are looking for doesn't exist or has been moved.</p>
 
-        <Link
+        <NavLink
           to="/"
           style={{
             marginTop: "20px",
@@ -43,7 +43,7 @@ const ErrorPage = () => {
           }}
         >
           Back to Home
-        </Link>
+        </NavLink>
       </div>
     </>
   );
