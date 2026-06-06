@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "1.43 Billion",
+    "interestingFact": "India is the world's largest democracy."
+  },
+  {
+    "id": 2,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "123 Million",
+    "interestingFact": "Japan has more than 6,800 islands."
+  },
+  {
+    "id": 3,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": "40 Million",
+    "interestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": "216 Million",
+    "interestingFact": "The Amazon Rainforest covers about 60% of Brazil."
+  },
+  {
+    "id": 5,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "27 Million",
+    "interestingFact": "Australia is the only country that is also a continent."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": "68 Million",
+    "interestingFact": "France is the most visited country in the world."
+  },
+  {
+    "id": 7,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": "114 Million",
+    "interestingFact": "The Great Pyramid of Giza is located in Egypt."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": "1.41 Billion",
+    "interestingFact": "China is home to the Great Wall, one of the world's largest structures."
+  },
+  {
+    "id": 9,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": "62 Million",
+    "interestingFact": "South Africa has three capital cities."
+  },
+  {
+    "id": 10,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": "59 Million",
+    "interestingFact": "Rome is known as the 'Eternal City'."
+  }
+]
