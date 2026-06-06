@@ -6,14 +6,6 @@ const ErrorPage = () => {
   //   console.log(error.data);
   return (
     <>
-      <div>
-        <h1>Error Page</h1>
-        <h1>{error.data}</h1>
-        <NavLink to="/">
-          <button>Go Home</button>
-        </NavLink>
-      </div>
-
       <div
         style={{
           minHeight: "100vh",
